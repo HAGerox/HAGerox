@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Welcome to my ✨ _special_ ✨ README
+### Welcome to my ✨ _special_ ✨ profile
 - 🌱 I’m currently studying A-Level Computer Science
 - 🖥️ I love to code things, especially in Python
 
