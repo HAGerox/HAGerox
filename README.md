@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+### Welcome to my ✨ _special_ ✨ README
+- 🌱 I’m currently studying A-Level Computer Science
+- 🖥️ I love to code things, especially in Python
 
 <!--
 **HAGerox/HAGerox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
